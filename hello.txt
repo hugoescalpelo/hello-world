@@ -1,0 +1,7 @@
+Hello world.
+
+This is a getting started exercise
+to learn git, gitHub, gitHug Desktop and Atom
+
+I just made an stage from Atom, even if I still
+don't know what stage is

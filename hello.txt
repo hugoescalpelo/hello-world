@@ -23,3 +23,12 @@ GitHub Desktop. I also learn that you need to stage changes to
 be able to commit them.
 
 Now I'm trying the Amend Button.
+
+Nice, now I have a (1) next to push and pull button. I don't
+know what to do. Let's stage and commit.
+
+Great! now i have a push (1) and a pull (2). I'm going to
+stage and commit this comments and then click on Fetch, by the way,
+I'm still at Atom's window and the Fetch button appears nest to
+push and pull on the "nice arrows" button on what now I can see,
+its the Git pane, not the GitHub pane.

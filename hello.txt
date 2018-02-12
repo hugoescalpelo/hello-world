@@ -36,3 +36,5 @@ its the Git pane, not the GitHub pane.
 Well, now I really have no idea what happens and for Amend and Pull is for.
 But, after some commits, merged errors, stages and a click on push (4),
 the changes were reflected on github.com and GitHub Desktop.
+
+Now I'm trying pull first

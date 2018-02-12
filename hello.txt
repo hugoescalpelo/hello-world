@@ -40,4 +40,10 @@ the changes were reflected on github.com and GitHub Desktop.
 Now I'm trying pull firsts
 Trying again
 
-Confused againg, lets try fetch first.
+Confused again, lets try fetch first.
+
+Now let's try a new branch.
+
+Jeje, it turns out "A Branch" is an invalid name for a branch.
+I wonder if it's because a reserved name or because it should be
+a no space name.

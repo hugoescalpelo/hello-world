@@ -12,4 +12,14 @@ that the changes are on server side. Hahaha, I think "server side"
 means something else.
 
 Now I'm going to click some cute arrows in my Atom window
-and see what happends.
+and see what happens.
+
+Wow. Now I see. Those nice arrows open a menu with pull and
+push buttons. How I see, push button works like the button
+next to the button subtitled with 'master branch'; Fetch I think.
+
+And all the changes can be tracked from the history tab in
+GitHub Desktop. I also learn that you need to stage changes to
+be able to commit them.
+
+Now I'm trying the Amend Button.

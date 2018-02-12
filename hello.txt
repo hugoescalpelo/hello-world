@@ -1,7 +1,15 @@
 Hello world.
 
 This is a getting started exercise
-to learn git, gitHub, gitHug Desktop and Atom
+to learn Git, GitHub, GitHub Desktop and Atom.
 
 I just made an stage from Atom, even if I still
-don't know what stage is
+don't know what stage is.
+
+I did some changes and uploaded successfully via GitHub Desktop,
+found some errata, added some dots and checked over github.com
+that the changes are on server side. Hahaha, I think "server side"
+means something else.
+
+Now I'm going to click some cute arrows in my Atom window
+and see what happends.

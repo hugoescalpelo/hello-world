@@ -12,7 +12,6 @@ that the changes are on server side. Hahaha, I think "server side"
 means something else.
 
 Now I'm going to click some cute arrows in my Atom window
-<<<<<<< HEAD
 and see what happens.
 
 Wow. Now I see. Those nice arrows open a menu with pull and
@@ -33,6 +32,7 @@ stage and commit this comments and then click on Fetch, by the way,
 I'm still at Atom's window and the Fetch button appears nest to
 push and pull on the "nice arrows" button on what now I can see,
 its the Git pane, not the GitHub pane.
-=======
-and see what happends.
->>>>>>> 8563423db799bf17f0175dc94a13670df2db7b9f
+
+Well, now I really have no idea what happens and for Amend and Pull is for.
+But, after some commits, merged errors, stages and a click on push (4),
+the changes were reflected on github.com and GitHub Desktop.
